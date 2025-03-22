@@ -1,0 +1,5 @@
+![Pipeline in Azure Data Factory](https://github.com/user-attachments/assets/5746266e-2590-4463-8f05-945a721858fd)
+![Autoloader1](https://github.com/user-attachments/assets/8b892806-1d06-4285-acd2-31a86e7c97ef)
+![Autoloader2](https://github.com/user-attachments/assets/447117c5-2362-492b-87a7-f0a23b82bdaa)
+![Job1](https://github.com/user-attachments/assets/47d61169-096a-4aaa-b1b0-b029d27a65a9)
+![Job2](https://github.com/user-attachments/assets/f0e0637b-70d6-400d-995f-f0fdfd646f64)
